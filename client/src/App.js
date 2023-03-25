@@ -12,7 +12,7 @@ const App = () => {
     <div>
       <Navbar expand="lg" variant="light" bg="light">
         <Container>
-          <Navbar.Brand href="#">Peer Chat</Navbar.Brand>
+          <Navbar.Brand href="#">P2P-video-Chat</Navbar.Brand>
         </Container>
       </Navbar>
       <Container>
